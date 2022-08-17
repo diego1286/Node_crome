@@ -18,3 +18,6 @@ axios.get('https://api.thingspeak.com/channels/1810697/feeds.json?api_key=BKUEK5
 });
 
 console.log("funcione que es para el grado ")
+
+
+console.log("funcione que es para probar que se suba la carpeta de git");
